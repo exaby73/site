@@ -13,7 +13,7 @@ params:
     enabled: true
     title: Hi there! I'm Nabeel Parkar :)
     subtitle: I am a Flutter developer mostly, but I dabble in anything I can get my hands on :D
-    imageUrl: https://pbs.twimg.com/profile_images/1286747138425143297/7uw9d25-_400x400.jpg
+    imageUrl: /me.jpg
     imageTitle: Nabeel Parkar (exabyt3)
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
