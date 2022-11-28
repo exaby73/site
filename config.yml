@@ -1,0 +1,61 @@
+baseURL: https://exabyt3.dev/
+languageCode: en-us
+title: exabyt3
+theme: PaperMod
+
+params:
+  ShowReadingTime: true
+  ShowToc: true
+  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: true
+
+  profileMode:
+    enabled: true
+    title: Hi there! I'm Nabeel Parkar :)
+    subtitle: I am a Flutter developer mostly, but I dabble in anything I can get my hands on :D
+    imageUrl: https://pbs.twimg.com/profile_images/1286747138425143297/7uw9d25-_400x400.jpg
+    imageTitle: Nabeel Parkar (exabyt3)
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Blogs
+        url: "/blogs"
+      - name: About Me
+        url: "/about"
+
+  homeInfoParams:
+
+  socialIcons:
+    - name: Email
+      url: mailto:nabeelparkar99@gmail.com
+    - name: Twitter
+      url: https://twitter.com/exabyt3_
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/exabyt3
+    - name: Github
+      url: https://www.github.com/exaby73
+
+  assets:
+    favicon: /favicon.svg
+
+menu:
+  main:
+    - identifier: blogs
+      name: Blogs
+      url: /blogs/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
