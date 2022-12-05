@@ -23,8 +23,6 @@ params:
       - name: About Me
         url: "/about"
 
-  homeInfoParams:
-
   socialIcons:
     - name: Email
       url: mailto:nabeelparkar99@gmail.com
