@@ -5,7 +5,7 @@ date: 2022-11-28T15:38:13+05:30
 
 ### Who am I?
 
-Well... my name is Nabeel Parkar. I go by `exabyt3` on the interwebs :D I am mostly a [Flutter](https://flutter.dev) developer, but I dabble in a lot of other technologies. Some of them are [Svelte](https://svelte.dev), [NodeJS](https://nodejs.org/), [Typescript](https://www.typescriptlang.org)
+Well... my name is Nabeel Parkar. I go by `exabyt3` on the interwebs :D I am mostly a [Flutter](https://flutter.dev) developer, but I dabble in a lot of other technologies. Some of them are [Svelte](https://svelte.dev), [NodeJS](https://nodejs.org/), [Typescript](https://www.typescriptlang.org).
 
 ### My story
 
